@@ -1,0 +1,2 @@
+# shopstyler
+ShopStyler WP Plugin
